@@ -26,6 +26,7 @@ Welcome to the 2D Platformer Game! This is a classic 2D platformer where you jum
 
 ### Contributing
 Lin Zheng
+
 Graphics created by Penzilla Deisgn
 
 

@@ -1,3 +1,4 @@
+#Level Editor, you can create your own level
 import sys
 import pygame
 

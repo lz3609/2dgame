@@ -16,6 +16,8 @@ Welcome to the 2D Platformer Game! This is a classic 2D platformer where you jum
 
 **Dynamic Obstacles**: Navigate through moving platforms, enemies, and environmental hazards.
 
+**Mechanics**: Invincible, allowing you to go through enemies without dying.
+
 
 
 ### Game Objectives
